@@ -1,14 +1,15 @@
 {
     "name": "otr-ghost-theme",
     "description": "The OTR Ghost Theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": true,
     "engines": {
         "ghost": ">=5.0.0"
     },
     "license": "MIT",
     "author": {
-        "name": "kclapper"
+        "name": "kclapper",
+        "email": "contact@offtherailsradio.org"
     },
     "keywords": [
         "ghost",
