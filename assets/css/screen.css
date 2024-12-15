@@ -948,8 +948,15 @@ hr {
 .gh-foot-menu {
     font-size: 1.6rem;
     font-weight: 700;
+    display: inline-flex;
+    gap: 10px;
 }
 
 .gh-copyright {
     font-size: 1.4rem;
+}
+
+.gh-foot-btn {
+    background-color: var(--ghost-accent-color);
+    color: var(--color-white) !important;
 }
