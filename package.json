@@ -1,6 +1,6 @@
 {
-    "name": "solo",
-    "description": "A Ghost theme",
+    "name": "otr-ghost-theme",
+    "description": "The OTR Ghost Theme",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -8,16 +8,13 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "kclapper"
     },
     "keywords": [
         "ghost",
         "theme",
         "ghost-theme"
     ],
-    "docs": "https://solo.ghost.io/about/",
     "config": {
         "posts_per_page": 6,
         "image_sizes": {
